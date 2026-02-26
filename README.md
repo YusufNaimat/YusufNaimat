@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**YusufNaimat/YusufNaimat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Hi,I'm 
+Yusuf Naimat,
+I’m a data analyst (business analyst),
+I like exploring business analysis on customer satisfaction,
+Using some key tools like Excel,google sheet, google colab, SQL etc,
+Completing EdMotion Pod Task 01 — building a data analyst portfolio from scratch.
+Aside been a data analyst, I'm a fashion designer,
+I’m open for collaboration ,
+Portfolio: https://sites.google.com/view/naimat-yusuf?usp=sharing
+LinkedIn: http://linkedin.com/in/yusufnaimat
+Email: temilolay@yahoo.com
